@@ -17,7 +17,8 @@ OOP, Encapsulation, ArrayList(Dynammic Storgage), CRUD Operations, File Handling
 - [x] Classes
 - [x] Basic UI
 - [ ] Load data from file when app starts
-- [ ] option to save to txt/pdf
+- [x] option to save to txt
+- [ ] option to save to pdf
 - [ ] save to designated location instead of current folder
 - [ ] Add/remove Columns
 - [ ] Improve the UI
